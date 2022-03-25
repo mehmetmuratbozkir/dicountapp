@@ -1,0 +1,11 @@
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\DiscountApp.exe
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\DiscountApp.dll
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\DiscountApp.deps.json
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\DiscountApp.runtimeconfig.json
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\DiscountApp.pdb
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bmura\Desktop\DiscountApp\DiscountApp\DiscountApp\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
